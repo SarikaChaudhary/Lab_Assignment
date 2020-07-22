@@ -1,2 +1,3 @@
 # Lab_Assignment
-Python_Problem: Fetching tweets from twitter account using tweepy API
+Python_problem: Fetching tweets from twitter account using tweepy API
+CV_problem: Image classification using Naive bayes
